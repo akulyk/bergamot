@@ -9,6 +9,7 @@ npm install --global bergamot
 
 ## Use
 can be used in next ways:
+
 make "bergamot.config.js"
 ```javascript
 module.exports = {
