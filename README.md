@@ -42,7 +42,7 @@ module.exports = {
 ```
 then call
 ```
-bergamot <command> <config_name: other_config>
+bergamot <command> <config_name: other_project>
 ```
 Also you can use:
 ```
