@@ -9,7 +9,7 @@ npm install --global bergamot
 
 ## Use
 can be used in next ways:
-- make "bergamot.config.js"
+make "bergamot.config.js"
 ```javascript
 module.exports = {
     project: {
@@ -19,7 +19,7 @@ module.exports = {
     }
 }
 ```
--- call 
+then call in console in folder with config file
 ```
 bergamot <command>
 ```
@@ -42,7 +42,7 @@ then call
 ```
 bergamot <command> <config_name: other_config>
 ```
-Also you can use in next way:
+Also you can use:
 ```
 bergamot <command> <entry_point> <bundle_path>
 ```
