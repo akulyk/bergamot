@@ -1,7 +1,7 @@
 # bergamot
 TeaCSS/CommonJS capable simple and blazing fast bundler without AST transforms
 ## Description
-Bundle css & js into single files for use on frontend
+Bundle css & js into single file for use on frontend
 Can also process `.tea` files
 
 ## Install
