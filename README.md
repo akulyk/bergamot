@@ -1,4 +1,7 @@
 # bergamot
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 TeaCSS/CommonJS capable simple and blazing fast bundler without AST transforms
 ## Description
 Bundle css & js into single file for use on frontend
@@ -54,5 +57,7 @@ bergamot <command> <entry_point: input.js> <bundle_path: output.js>
 - "watch"  - build and rebuild when some project file changed (usefull for development)
 - "minify" - build and minify js & css files (for production)
 
+### License
 
+Plugin is [MIT licensed](./LICENSE).
 
